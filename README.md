@@ -12,3 +12,7 @@ This project provides a simple command-line interface for playing Tic Tac Toe ag
 - Validation of user inputs
 - Detection of game outcomes (win, draw)
 - Option to play again after a game ends
+
+![Screenshot 2024-04-05 144539](https://github.com/nikhita7013/Tic_Tac_Toe/assets/165824838/56c23b62-ae6f-4075-928d-007d36ca2abc)
+
+![Screenshot 2024-04-05 144554](https://github.com/nikhita7013/Tic_Tac_Toe/assets/165824838/40192bc8-e9a9-4623-9577-56be87bb6193)
